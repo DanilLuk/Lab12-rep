@@ -1,0 +1,10 @@
+F:\Jigurda\Lab12\Lab12\bin\Debug\Lab12.exe.config
+F:\Jigurda\Lab12\Lab12\bin\Debug\Lab12.exe
+F:\Jigurda\Lab12\Lab12\bin\Debug\Lab12.pdb
+F:\Jigurda\Lab12\Lab12\bin\Debug\ShapesLib.dll
+F:\Jigurda\Lab12\Lab12\bin\Debug\ShapesLib.pdb
+F:\Jigurda\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+F:\Jigurda\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+F:\Jigurda\Lab12\Lab12\obj\Debug\Lab12.csproj.Up2Date
+F:\Jigurda\Lab12\Lab12\obj\Debug\Lab12.exe
+F:\Jigurda\Lab12\Lab12\obj\Debug\Lab12.pdb

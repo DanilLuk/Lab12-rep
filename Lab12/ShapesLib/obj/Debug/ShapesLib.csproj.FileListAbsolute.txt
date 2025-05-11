@@ -1,0 +1,6 @@
+F:\Jigurda\Lab10\ShapesLib\bin\Debug\ShapesLib.dll
+F:\Jigurda\Lab10\ShapesLib\bin\Debug\ShapesLib.pdb
+F:\Jigurda\Lab10\ShapesLib\obj\Debug\ShapesLib.csproj.AssemblyReference.cache
+F:\Jigurda\Lab10\ShapesLib\obj\Debug\ShapesLib.csproj.CoreCompileInputs.cache
+F:\Jigurda\Lab10\ShapesLib\obj\Debug\ShapesLib.dll
+F:\Jigurda\Lab10\ShapesLib\obj\Debug\ShapesLib.pdb
