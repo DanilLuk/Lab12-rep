@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LPoint.cs" />
+    <Compile Include="HTable.cs" />
     <Compile Include="ICloneable.cs" />
     <Compile Include="PointList.cs" />
     <Compile Include="Point.cs" />
@@ -51,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Lab11\ShapesLib\ShapesLib.csproj">

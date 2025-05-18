@@ -6,7 +6,7 @@ using ShapesLib;
 namespace Lab12_TESTS
 {
     [TestClass]
-    public class UnitTest1
+    public class Lists_TESTS
     {
         [TestMethod]
         public void PointList_MakeList_InvalidLengthTest()

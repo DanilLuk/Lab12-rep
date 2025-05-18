@@ -1,2 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab12.Point" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAABA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab12.PointList">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAQBAAAAAAAAAAAAAAAAAAQBAAAAAAAAAA=</HashCode>
+      <FileName>PointList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.Program">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.HTable&lt;T&gt;">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgABACAAAAAAAAAEIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>HTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.LPoint&lt;T&gt;">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAKAAAAAAAAIAAAA=</HashCode>
+      <FileName>LPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab12.ICloneable">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ICloneable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShapesLib.IIndexInterface">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

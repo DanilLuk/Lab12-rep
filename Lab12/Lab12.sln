@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLib", "..\Lab11\Shape
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12-TESTS", "Lab12-TESTS\Lab12-TESTS.csproj", "{DFAAC089-059A-41A0-A340-B1CEB9B3E5AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12-HTable-TESTS", "Lab12-HTable-TESTS\Lab12-HTable-TESTS.csproj", "{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DFAAC089-059A-41A0-A340-B1CEB9B3E5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFAAC089-059A-41A0-A340-B1CEB9B3E5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFAAC089-059A-41A0-A340-B1CEB9B3E5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
