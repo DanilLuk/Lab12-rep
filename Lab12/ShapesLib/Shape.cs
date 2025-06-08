@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapesLib
 {
-    public class Shape
+    public class Shape : ICloneable, IIndexInterface
     {
         protected string name;
         protected static Random rand = new Random(); // для RandomInit
@@ -22,6 +22,8 @@ namespace ShapesLib
             }
         }
 
+        public int GetIndex() => 0;
+
         // конструкторы
         public Shape() // без параметров
         {
@@ -33,10 +35,7 @@ namespace ShapesLib
             Name = name;
         }
 
-        public Shape(Shape copy) // глубокое копирование
-        {
-            this.name = copy.name;
-        }
+        public virtual object Clone() => new Shape(Name); // глубокое копирование
 
         // методы просмотра
         public void Show()

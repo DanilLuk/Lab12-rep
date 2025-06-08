@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Circle.cs" />
+    <Compile Include="IIndexInterface.cs" />
     <Compile Include="Parallelepiped.cs" />
     <Compile Include="Rectangle.cs" />
     <Compile Include="Shape.cs" />

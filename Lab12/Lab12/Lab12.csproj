@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Tree.cs" />
+    <Compile Include="TPoint.cs" />
     <Compile Include="LPoint.cs" />
     <Compile Include="HTable.cs" />
     <Compile Include="ICloneable.cs" />

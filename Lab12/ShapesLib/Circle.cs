@@ -47,6 +47,12 @@ namespace ShapesLib
             Radius = rad;
         }
 
+        public override object Clone()
+        {
+            var clone = new Circle(Name = Name, Radius = Radius);
+            return clone;
+        }
+
         // метод просмотра 
         public void CShow()
         {

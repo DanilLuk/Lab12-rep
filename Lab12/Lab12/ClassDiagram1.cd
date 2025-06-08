@@ -23,17 +23,31 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Lab12.HTable&lt;T&gt;">
-    <Position X="10.5" Y="5.25" Width="1.5" />
+    <Position X="10.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAAAAAgABACAAAAAAAAAEIAAAAAAAAAAAEAAA=</HashCode>
       <FileName>HTable.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab12.LPoint&lt;T&gt;">
-    <Position X="8.75" Y="5.25" Width="1.5" />
+    <Position X="8.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAKAAAAAAAAIAAAA=</HashCode>
       <FileName>LPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.Tree&lt;T&gt;">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBBAAAIAoEAABAAAAAAAAIEAAAAAEAAg=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.TPoint&lt;T&gt;">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAgAA=</HashCode>
+      <FileName>TPoint.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="Lab12.ICloneable">
@@ -44,7 +58,7 @@
     </TypeIdentifier>
   </Interface>
   <Interface Name="ShapesLib.IIndexInterface">
-    <Position X="7" Y="5.25" Width="1.5" />
+    <Position X="1.25" Y="5.25" Width="1.5" />
     <TypeIdentifier />
   </Interface>
   <Font Name="Segoe UI" Size="9" />

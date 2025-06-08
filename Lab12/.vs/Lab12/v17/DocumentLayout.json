@@ -3,30 +3,20 @@
   "WorkspaceRootPath": "F:\\Jigurda\\Lab12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|F:\\Jigurda\\Lab12\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|F:\\Jigurda\\Lab12\\lab12\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|f:\\jigurda\\lab12\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|f:\\jigurda\\lab12\\lab12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|F:\\Jigurda\\Lab12\\lab12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|f:\\jigurda\\lab12\\lab12\\htable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\htable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|f:\\jigurda\\lab12\\lab12\\lpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\lpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2320C0EC-257D-41A7-841F-DB034D58EB13}|..\\Lab11\\ShapesLib\\ShapesLib.csproj|f:\\jigurda\\lab11\\shapeslib\\iindexinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}|Lab12-HTable-TESTS\\Lab12-HTable-TESTS.csproj|f:\\jigurda\\lab12\\lab12-htable-tests\\htable-tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58A2BCDF-F053-4898-A27C-6C45CC7B3A4C}|Lab12-HTable-TESTS\\Lab12-HTable-TESTS.csproj|solutionrelative:lab12-htable-tests\\htable-tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2320C0EC-257D-41A7-841F-DB034D58EB13}|..\\Lab11\\ShapesLib\\ShapesLib.csproj|f:\\jigurda\\lab11\\shapeslib\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|F:\\Jigurda\\Lab12\\lab12\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB190F6-D230-4455-A144-D1BFBCCC4B13}|Lab12\\Lab12.csproj|solutionrelative:lab12\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Lab12\\ClassDiagram1.cd",
@@ -56,78 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IIndexInterface.cs",
-              "DocumentMoniker": "F:\\Jigurda\\Lab11\\ShapesLib\\IIndexInterface.cs",
-              "RelativeDocumentMoniker": "..\\Lab11\\ShapesLib\\IIndexInterface.cs",
-              "ToolTip": "F:\\Jigurda\\Lab11\\ShapesLib\\IIndexInterface.cs",
-              "RelativeToolTip": "..\\Lab11\\ShapesLib\\IIndexInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T23:13:40.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "F:\\Jigurda\\Lab11\\ShapesLib\\Shape.cs",
-              "RelativeDocumentMoniker": "..\\Lab11\\ShapesLib\\Shape.cs",
-              "ToolTip": "F:\\Jigurda\\Lab11\\ShapesLib\\Shape.cs",
-              "RelativeToolTip": "..\\Lab11\\ShapesLib\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T23:03:50.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HTable-TESTS.cs",
-              "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12-HTable-TESTS\\HTable-TESTS.cs",
-              "RelativeDocumentMoniker": "Lab12-HTable-TESTS\\HTable-TESTS.cs",
-              "ToolTip": "F:\\Jigurda\\Lab12\\Lab12-HTable-TESTS\\HTable-TESTS.cs",
-              "RelativeToolTip": "Lab12-HTable-TESTS\\HTable-TESTS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:48:57.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LPoint.cs",
-              "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\LPoint.cs",
-              "RelativeDocumentMoniker": "Lab12\\LPoint.cs",
-              "ToolTip": "F:\\Jigurda\\Lab12\\Lab12\\LPoint.cs",
-              "RelativeToolTip": "Lab12\\LPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Title": "TPoint.cs",
+              "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\TPoint.cs",
+              "RelativeDocumentMoniker": "Lab12\\TPoint.cs",
+              "ToolTip": "F:\\Jigurda\\Lab12\\Lab12\\TPoint.cs",
+              "RelativeToolTip": "Lab12\\TPoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:38:12.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HTable.cs",
-              "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\HTable.cs",
-              "RelativeDocumentMoniker": "Lab12\\HTable.cs",
-              "ToolTip": "F:\\Jigurda\\Lab12\\Lab12\\HTable.cs",
-              "RelativeToolTip": "Lab12\\HTable.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwIIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:37:22.719Z",
+              "WhenOpened": "2025-05-27T10:12:52.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\Tree.cs",
+              "RelativeDocumentMoniker": "Lab12\\Tree.cs",
+              "ToolTip": "F:\\Jigurda\\Lab12\\Lab12\\Tree.cs",
+              "RelativeToolTip": "Lab12\\Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:58:02.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Jigurda\\Lab12\\Lab12\\Program.cs",
               "RelativeDocumentMoniker": "Lab12\\Program.cs",
               "ToolTip": "F:\\Jigurda\\Lab12\\Lab12\\Program.cs",
               "RelativeToolTip": "Lab12\\Program.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAgwKYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T17:03:25.197Z",
               "EditorCaption": ""

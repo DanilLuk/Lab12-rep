@@ -71,7 +71,7 @@ namespace Lab12
                     LPoint<T> cur = table[i];
 
                     while (cur.next != null)
-                    {                        
+                    {
                         cur.value.ShowVirt();
 
                         cur = cur.next;

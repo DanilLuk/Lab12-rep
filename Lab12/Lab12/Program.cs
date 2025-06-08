@@ -13,6 +13,9 @@ namespace Lab12
     {
         static void Main(string[] args)
         {
+            string buffer;
+            bool isChecked;
+
             string choice;            
 
             Console.WriteLine("Choose the number of the task (1 - 4)\n Type any other symbol to exit\n");
@@ -28,8 +31,6 @@ namespace Lab12
                     // СОЗДАНИЕ СПИСКА
 
                     Console.WriteLine("Enter the list length:"); 
-                    string buffer;
-                    bool isChecked;
                     int len;
 
                     do
@@ -147,6 +148,51 @@ namespace Lab12
                     table.Print();
 
                     table.Find(shape);
+
+                    break;
+
+                case "3":
+
+                    // СОЗДАНИЕ ДЕРЕВА
+
+                    Console.WriteLine("Enter size of the tree:\n");
+                    
+                    int size;
+
+                    do // ввод размера дерева
+                    {
+                        buffer = Console.ReadLine();
+                        isChecked = int.TryParse(buffer, out size);
+                        if (size <= 0)
+                        {
+                            Console.WriteLine("Enter a positive integer value");
+                            isChecked = false;
+                        }
+                    } while (!isChecked);
+
+                    Tree<Circle> tree = new Tree<Circle>();
+                    Tree<Circle>.size = size;
+                    tree.root = Tree<Circle>.BalancedTree(size);
+
+                    Console.WriteLine("Balanced tree:");
+                    Tree<Circle>.Print(tree);
+                    Console.WriteLine();
+
+                    // ПОИСК МИНИМАЛЬНОГО ЗНАЧЕНИЯ
+
+                    Tree<Circle>.FindMin(tree);
+
+                    // СОЗДАНИЕ ДЕРЕВА ПОИСКА
+
+                    Tree<Circle> bst = Tree<Circle>.SortedTree(tree);
+                    Console.WriteLine("Balanced Search Tree:");
+                    Tree<Circle>.Print(bst);
+
+                    tree = null;
+                    bst = null;
+
+                    Console.WriteLine();
+                    Tree<Circle>.Print(tree);
 
                     break;
 
